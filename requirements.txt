@@ -1,0 +1,8 @@
+pandas
+spacy
+scikit-learn
+sentence-transformers
+tqdm
+plotly
+dash
+requests
